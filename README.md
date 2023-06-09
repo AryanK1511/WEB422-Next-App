@@ -5,11 +5,6 @@ This web application is hosted on cyclic and you can access it through the link 
 [https://web422-next-app.netlify.app](https://web422-next-app.netlify.app)
 <br />
 ## Technologies and Libraries Used:
-- [Express.js](https://expressjs.com)
-- [Node.js](https://nodejs.org/en/)
-- [MongoDB](https://www.mongodb.com)
-- HTML, CSS and JavaScript (ES6)
-- [Handlebars.js](https://handlebarsjs.com)
-- [Cloudinary](https://cloudinary.com)
-- [PostgreSQL](https://www.postgresql.org)
-- [ElephantSQL](https://www.elephantsql.com)
+- [React.js](https://react.dev)
+- [Next.js](https://nextjs.org)
+- [React Bootstrap](https://react-bootstrap.netlify.app)
